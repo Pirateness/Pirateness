@@ -4,9 +4,8 @@ I'm Pirateness, a student studying C#, JS, Python and a whole host of other lang
 
 - 🔭 I’m currently working on a super secret video game project in my spare time
 - ⚡ I use VSCode for pretty much everything, ex-Atom user
-- 📫 I hate poorly written code, and theres no better place to find that than my old respositories (maybe one day I'll go back and fix my 12 year old self's projects)
 - 🌱 My favourite language is C#, but my most used one is probably JS
-- ⚡ Fun fact: I started coding Minecraft plugins with Java in Eclipse at 8 years old
+- 📫 Fun fact: I started coding Minecraft plugins with Java in Eclipse at 8 years old
 - 💬 If your interested in contacting me, please do so here: notpirateness@gmail.com
 <!--
 **Pirateness/Pirateness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
